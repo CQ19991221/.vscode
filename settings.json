@@ -1,0 +1,17 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+     // tab 大小为2个空格
+     "editor.tabSize": 2,
+     // 保存时格式化
+     "editor.formatOnSave": true
+     //字体
+     "editor.fontSize": 18,
+     "editor.tokenColorCustomizations": {
+        "comments": "#049e5b", // 注释
+    },
+    "git.ignoreWindowsGit27Warning": true,
+    "window.zoomLevel": -1,
+    "workbench.startupEditor": "welcomePage",
+    "workbench.iconTheme": "vscode-icons",
+}
